@@ -3,6 +3,5 @@ public class Main {
  
    System.out.println("Hello web&App");
    System.out.println("version2");
-   System.out.println("version3");
  }
 }
